@@ -1,0 +1,44 @@
+Usuarios conectados:
+marcos   seat0        2025-10-15 07:09 (login screen)
+marcos   tty2         2025-10-15 07:09 (tty2)
+
+-----------------------------------------------------------
+Uso de CPU y memoria:
+top - 09:35:32 up  2:27,  1 user,  load average: 0,08, 0,08, 0,07
+Tareas: 269 total,   1 ejecutar,  268 hibernar,    0 detener,    0 zombie
+%Cpu0  :  0,0 us,  0,0 sy,  0,0 ni,100,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st 
+%Cpu2  :  0,0 us,  9,1 sy,  0,0 ni, 90,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st 
+MiB Mem :   7941,9 total,   5298,9 libre,   1429,5 usado,   1496,4 búf/caché    
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM     HORA+ ORDEN
+   3460 marcos    20   0 4110460 281316 136256 S  20,0   3,5   4:20.35 gnome-s+
+   6068 root      20   0       0      0      0 I  10,0   0,0   0:00.41 kworker+
+   7042 marcos    20   0  560484  62168  47760 S  10,0   0,8   0:22.32 gnome-t+
+
+----------------------------
+· Memoria libre
+               total       usado       libre  compartido   búf/caché  disponible
+Mem:           7,8Gi       1,4Gi       5,2Gi        37Mi       1,5Gi       6,4Gi
+Inter:         4,0Gi          0B       4,0Gi
+
+-----------------------------------------------------------
+Espacio en disco:
+S.ficheros     Tamaño Usados  Disp Uso% Montado en
+tmpfs            795M   1,5M  793M   1% /run
+/dev/sda2         49G    16G   32G  33% /
+tmpfs            3,9G      0  3,9G   0% /dev/shm
+tmpfs            5,0M      0  5,0M   0% /run/lock
+tmpfs            795M   136K  795M   1% /run/user/1000
+
+-----------------------------------------------------------
+Últimos errores del sistema:
+oct 15 09:25:09 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:25:09 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:25:59 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:25:59 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:30:09 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:30:09 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:31:34 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:31:34 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:32:50 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+oct 15 09:32:50 VB-Ubuntu kernel: [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
