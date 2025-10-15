@@ -1,0 +1,10 @@
+CPU: 2.0% | RAM usada: 1508.70 MB | RAM libre: 6433.17 MB | Procesos activos: 274
+CPU: 2.1% | RAM usada: 1513.94 MB | RAM libre: 6427.93 MB | Procesos activos: 274
+CPU: 1.5% | RAM usada: 1514.19 MB | RAM libre: 6427.68 MB | Procesos activos: 274
+CPU: 1.3% | RAM usada: 1514.65 MB | RAM libre: 6427.22 MB | Procesos activos: 274
+CPU: 1.3% | RAM usada: 1514.63 MB | RAM libre: 6427.24 MB | Procesos activos: 274
+CPU: 0.3% | RAM usada: 1514.63 MB | RAM libre: 6427.24 MB | Procesos activos: 274
+CPU: 0.3% | RAM usada: 1516.61 MB | RAM libre: 6425.25 MB | Procesos activos: 274
+CPU: 1.3% | RAM usada: 1516.79 MB | RAM libre: 6425.08 MB | Procesos activos: 274
+CPU: 0.7% | RAM usada: 1516.86 MB | RAM libre: 6425.01 MB | Procesos activos: 248
+CPU: 7.1% | RAM usada: 1516.88 MB | RAM libre: 6424.99 MB | Procesos activos: 233
